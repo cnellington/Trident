@@ -1,11 +1,13 @@
 #!/usr/bin/env python
 # coding: utf-8
+# Caleb Ellington
+# ellinc@uw.edu
 
 # In[2]:
 
 
 from pydent import AqSession
-session = AqSession("ellinc", "GoHuskies2020!", "http://52.27.43.242")
+session = AqSession("", "", "http://52.27.43.242")
 
 
 # In[73]:

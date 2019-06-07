@@ -1,5 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
+# Caleb Ellington
+# ellinc@uw.edu
 
 # In[1]:
 
